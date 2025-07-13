@@ -349,11 +349,6 @@ Permission is requested at runtime using Accompanist Permissions library.
    - Close other camera apps
    - Restart device if camera is unresponsive
 
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Google ML Kit Text Recognition v2](https://developers.google.com/ml-kit/vision/text-recognition/v2/android) for text recognition capabilities
