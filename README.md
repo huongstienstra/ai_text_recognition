@@ -89,7 +89,7 @@ This project follows **Clean Architecture** principles with three main layers:
 
 4. **Run the app**
    - Connect an Android device or start an emulator
-   - Click "Run" or press `Ctrl+R` (Windows/Linux) / `Cmd+R` (Mac)
+   - Click "Run"
 
 ## 📖 Usage
 
