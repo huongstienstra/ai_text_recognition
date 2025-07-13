@@ -305,22 +305,6 @@ Integrates CameraX with Compose using `AndroidView` for seamless camera function
 ### TextRecognitionScreen
 Main screen coordinating camera capture, text recognition, and results display.
 
-## 🧪 Testing
-
-### Running Tests
-```bash
-# Unit Tests
-./gradlew test
-
-# Instrumented Tests
-./gradlew connectedAndroidTest
-```
-
-### Test Coverage
-- Domain layer use cases
-- Repository implementations
-- ViewModel state management
-
 ## 🔒 Permissions
 
 The app requires the following permission:
